@@ -16,3 +16,44 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-start,
+.btn-stop {
+  margin: 0 5px;
+  padding: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.flatpickr-input,
+.timer {
+  font-weight: bold;
+}
+
+.timer {
+  display: flex;
+  gap: 10;
+  
+
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 15px;  
+}
+
+.value {
+  font-size: 30px;
+}
+
+.label {
+  text-transform: uppercase;
+  font-size: 12px;
+}
