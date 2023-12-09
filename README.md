@@ -1,6 +1,6 @@
 # goit-js-hw-09
 
-Tarea Javascript Módulo 8 -  Temporizadores y tiempo
+Tarea Javascript Módulo 9 -  Temporizadores y tiempo
 
 Live Page: https://mpbolanos.github.io/goit-js-hw-09/
 
